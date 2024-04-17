@@ -1,0 +1,66 @@
+body{
+    background-image: url(./images/1146px-Vincent_van_Gogh_-_Green_Wheat_Fields\,_Auvers_\(1890\).jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
+}
+
+.nav-link{
+    font-family: Hiragino Serif (Mincho) ProN W6;
+    color:#042f18;
+    font-size: 17px;
+}
+
+#nav-item{
+    font-size: 17px;
+}
+#nav-item2{
+    font-size: 17px;
+}
+
+a{
+    color:#042f18;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #468a9e;
+}
+
+a:active{
+    color: #bbb97b;
+}
+
+h3{
+    font-size: 17px;
+    color: #042f18;
+    font-family: Hiragino Serif (Mincho) ProN W6;
+}
+
+h1{
+    color:#042f18;
+    font-family: Hiragino Serif (Mincho) ProN W6;
+}
+p{
+    color: #042f18;
+    font-family: Hiragino Serif (Mincho) ProN W6;
+}
+.px-3{
+    margin-top: 200px;
+    font-size: 25px;
+    
+}
+span{
+    background-color:#fefaf1;
+}
+
+footer{
+    margin-top: 200px;
+  
+}
+
+
+
+

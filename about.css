@@ -1,0 +1,133 @@
+body{
+    background-image:url(./images/);
+}
+
+img{
+    width: 80%;
+}
+
+
+
+.nav-link{
+    font-family: Hiragino Serif (Mincho) ProN W6;
+    color: #58554e;
+}
+
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .dice {
+    text-align: right;
+    display: inline-block; 
+  }
+
+  a{
+    color: #58554e;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  p{
+    color: #58554e;
+    font-family: Hiragino Serif (Mincho) ProN W6;
+    font-size: 18px;
+  }
+  
+h3{
+    font-size: 25px;
+    margin-top: 100px;
+}
+
+#third{
+    font-size: 17px;
+}
+
+footer{
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+#third{
+    padding-top: 10px;
+}
+
+.vertical {
+    border-left: 5px solid #58554e;
+    height: 100px0;
+    text-align: center;
+}
+
+.bold{ 
+    color:black;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #88a589, #f3e3bf, #98ac8f);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+ 
+
+.purple{
+    background-color: green;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 9px;
+    margin-left: 5px;
+   
+}
+
+.yellow {
+    background-color:indianred;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 9px;
+    margin-left: 5px;
+}
+
+.green {
+    background-color:lightseagreen;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 9px;
+    margin-left: 5px;
+}
+
+.red {
+    background-color:crimson;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 9px;
+    margin-left: 5px;
+    
+}
+
+.blue {
+    background-color:royalblue;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 9px;
+    margin-left: 5px;
+  
+}
+
+.nav-item{
+  font-size: 17px;
+}
